@@ -1,13 +1,15 @@
 # https://a-anilkumar.github.io/Floqer_Assignment/
 
 
-#Floqer’s Assignment for Software Dev Internship Role
+# Floqer’s Assignment for Software Dev Internship Role
 ## Task 1: Basic Table
 Data Information:
 ● You’ll be working with the data set [here](https://www.kaggle.com/datasets/chopper53/machine-learning-engineer-salary-in-2024).
+
 ● The dataset provides information on ML Engineer salaries from 2020 to 2024
-● You can either create an API to fetch this data or just put this data in a file in your frontend
-codebase.
+
+● You can either create an API to fetch this data or just put this data in a file in your frontend codebase.
+
 Description:
 Based on this data, create a table (call it “main table”) with the following columns:
 1. Year
