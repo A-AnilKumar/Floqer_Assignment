@@ -4,6 +4,7 @@
 # Floqer’s Assignment for Software Dev Internship Role
 ## Task 1: Basic Table
 Data Information:
+
 ● You’ll be working with the data set [here](https://www.kaggle.com/datasets/chopper53/machine-learning-engineer-salary-in-2024).
 
 ● The dataset provides information on ML Engineer salaries from 2020 to 2024
